@@ -2,7 +2,7 @@
 
 
 My name is Ayan and im currently a 16-year-old collage student in Pakistan. 
--I’m currently working onvlearning as much as I can about cyber security from platforms like HackTheBox and TryHackMe and im trying  to get some certifecates alongside too.
+I’m currently working onvlearning as much as I can about cyber security from platforms like HackTheBox and TryHackMe and im trying  to get some certifecates alongside too. (Yeah and most of my repos are vibecoded.)
 
 I’m currently learning about how systems like linux, windows and macOs work from the "Operating System Fundamentals" module availible on HackTheBox for free which is really helpful.
 
