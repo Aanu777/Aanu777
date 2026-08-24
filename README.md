@@ -20,13 +20,13 @@
 
 I'm a developer exploring the intersection of **Artificial Intelligence, software engineering, automation, and cybersecurity**.
 
-I enjoy building projects from the ground up and learning by solving problems that force me to understand what's happening underneath the abstraction.
+I enjoy taking projects from an idea all the way to a working system and learning by solving problems that force me to understand what's happening underneath the abstraction.
 
 My main areas of interest are:
 
 * 🤖 Artificial Intelligence & LLMs
 * 🧠 AI Agents & autonomous systems
-* 🔎 RAG & knowledge systems
+* 🔎 Retrieval-Augmented Generation
 * 🎙️ Voice AI
 * 🔐 Cybersecurity & secure software
 * 🌐 Networking & APIs
@@ -64,7 +64,7 @@ A voice-based AI system designed to communicate with clients, understand their q
 
 An AI application designed to transform meetings into useful information through transcription, analysis, summarization, and actionable insights.
 
-**Focus:** `Python` `AI` `Speech-to-Text` `LLMs` `Full Stack`
+**Focus:** `Python` `Speech-to-Text` `LLMs` `AI` `Full Stack`
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Aanu777)
 
@@ -84,25 +84,7 @@ An interactive virtual gallery combining memories, photographs, audio, visual en
 
 Cybersecurity is another area I'm actively exploring alongside AI and software development.
 
-My interests include:
-
-```text
-Application Security
-       ↓
-Secure API Design
-       ↓
-Authentication & Authorization
-       ↓
-Network Fundamentals
-       ↓
-Web Security
-       ↓
-Security Automation
-       ↓
-AI × Cybersecurity
-```
-
-I'm particularly interested in how AI can be used to **detect, analyze, automate, and respond to security problems** while also understanding the security risks introduced by AI systems themselves.
+My goal is to understand not only **how systems are built**, but also **how they can fail and how they can be secured**.
 
 ### Areas I'm Exploring
 
@@ -115,8 +97,30 @@ I'm particularly interested in how AI can be used to **detect, analyze, automate
 * 🧪 Security testing
 * 🤖 AI-assisted security
 * ⚙️ Security automation
+* 🧠 AI security
 
-> **The goal isn't just to build systems that work — it's to understand how they can fail and how to make them safer.**
+### Security Mindset
+
+```text
+Application
+     │
+     ▼
+Architecture
+     │
+     ▼
+Implementation
+     │
+     ▼
+Testing
+     │
+     ▼
+Security
+     │
+     ▼
+Continuous Improvement
+```
+
+> **The goal isn't just to build systems that work — it's to understand how they can fail and make them safer.**
 
 ---
 
@@ -140,7 +144,7 @@ I'm particularly interested in how AI can be used to **detect, analyze, automate
 
 ### Cybersecurity
 
-`Web Security` · `API Security` · `Networking` · `Authentication` · `Security Testing` · `Secure Coding`
+`Web Security` · `API Security` · `Networking` · `Authentication` · `Secure Coding` · `Security Testing`
 
 ### Development
 
@@ -148,17 +152,17 @@ I'm particularly interested in how AI can be used to **detect, analyze, automate
 
 ---
 
-# ⚡ The Things I Like Building
+# ⚡ What I Like Building
 
 <div align="center">
 
-|     🤖 AI     |       🔐 Security      |  ⚙️ Engineering |
-| :-----------: | :--------------------: | :-------------: |
-|   AI Agents   |       Secure APIs      | Backend Systems |
-|    LLM Apps   |      Web Security      |    REST APIs    |
-|  RAG Systems  |    Network Security    |    Automation   |
-|    Voice AI   | Vulnerability Research |    Full Stack   |
-| AI Automation |       AI Security      | Developer Tools |
+|     🤖 AI     |    🔐 Security   |  ⚙️ Engineering |
+| :-----------: | :--------------: | :-------------: |
+|   AI Agents   |    Secure APIs   | Backend Systems |
+|    LLM Apps   |   Web Security   |    REST APIs    |
+|  RAG Systems  | Network Security |    Automation   |
+|    Voice AI   | Security Testing |    Full Stack   |
+| AI Automation |    AI Security   | Developer Tools |
 
 </div>
 
@@ -166,28 +170,30 @@ I'm particularly interested in how AI can be used to **detect, analyze, automate
 
 # 🔬 Current Direction
 
-I'm working toward becoming someone who can take an idea from **concept → architecture → implementation → security → deployment**.
+I'm working toward becoming someone who can take an idea from:
 
-My current learning path revolves around:
+**Concept → Architecture → Implementation → Security → Deployment**
+
+My current interests sit at the intersection of AI and cybersecurity:
 
 ```text
-                    SOFTWARE ENGINEERING
-                            │
-              ┌─────────────┴─────────────┐
-              │                           │
-             AI                     CYBERSECURITY
-              │                           │
-        ┌─────┴─────┐               ┌─────┴─────┐
-        │           │               │           │
-       LLMs       Agents          WebSec      Networks
-        │           │               │           │
-        └─────┬─────┘               └─────┬─────┘
-              │                           │
-              └───────────┬───────────────┘
+                 SOFTWARE ENGINEERING
                           │
-                    AI × SECURITY
-                          │
-                    Future Systems
+             ┌────────────┴────────────┐
+             │                         │
+            AI                   CYBERSECURITY
+             │                         │
+       ┌─────┴─────┐             ┌─────┴─────┐
+       │           │             │           │
+      LLMs       Agents        WebSec     Networks
+       │           │             │           │
+       └─────┬─────┘             └─────┬─────┘
+             │                         │
+             └──────────┬──────────────┘
+                        │
+                   AI × SECURITY
+                        │
+                   Future Systems
 ```
 
 ---
@@ -213,9 +219,23 @@ My current learning path revolves around:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aanu777&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Aanu777 GitHub statistics">
+<a href="https://github.com/Aanu777">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanu777&layout=compact&hide_border=true&theme=transparent" alt="Aanu777 most used languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanu777&theme=transparent" width="100%" alt="Aanu777 GitHub contribution summary">
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Aanu777">
+
+<img src="https://streak-stats.demolab.com?user=Aanu777&theme=transparent&hide_border=true" width="70%" alt="Aanu777 GitHub streak">
+
+</a>
 
 </div>
 
@@ -225,7 +245,7 @@ My current learning path revolves around:
 
 <div align="center">
 
-### **BUILD → BREAK → UNDERSTAND → SECURE → IMPROVE**
+## BUILD → BREAK → UNDERSTAND → SECURE → IMPROVE
 
 </div>
 
@@ -237,7 +257,7 @@ A security vulnerability isn't just something to patch.
 
 A failed architecture isn't just something to replace.
 
-They're all opportunities to understand the system more deeply.
+They're opportunities to understand the system more deeply.
 
 ---
 
@@ -265,59 +285,3 @@ They're all opportunities to understand the system more deeply.
 
 </div>
 
-
----
-
-# 🧩 My Development Philosophy
-
-<div align="center">
-
-### **Build → Break → Understand → Improve → Repeat**
-
-</div>
-
-I believe the fastest way to learn software engineering is to **build things that are slightly beyond what you currently know**.
-
-Every bug teaches something.
-
-Every failed architecture teaches something.
-
-Every finished project makes the next one easier.
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/Aanu777">
-<img src="https://img.shields.io/badge/GitHub-Aanu777-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<!-- Replace these when you're ready -->
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Thanks for stopping by.
-
-**Still learning. Still building. Still curious.**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Aanu777&style=flat-square&color=blueviolet" alt="Profile views"/>
-
-</div>
-
-</div>
