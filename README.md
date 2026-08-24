@@ -40,43 +40,43 @@ My main areas of interest are:
 
 # 🚀 Featured Projects
 
-### 🤖 Autonomous Research Agent
+## 🤖 Autonomous Research Agent
 
 An AI research system focused on turning complex questions into structured research through planning, information gathering, reasoning, and synthesis.
 
 **Focus:** `Python` `FastAPI` `LLMs` `AI Agents` `Research Automation`
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Aanu777)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aanu777)
 
 ---
 
-### 📞 AI Call Agent
+## 📞 AI Call Agent
 
 A voice-based AI system designed to communicate with clients, understand their questions, retrieve relevant information, and respond naturally.
 
 **Focus:** `Python` `FastAPI` `Twilio` `ElevenLabs` `Deepgram` `LLMs`
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Aanu777)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aanu777)
 
 ---
 
-### 🎙️ AI Meeting Assistant
+## 🎙️ AI Meeting Assistant
 
 An AI application designed to transform meetings into useful information through transcription, analysis, summarization, and actionable insights.
 
 **Focus:** `Python` `Speech-to-Text` `LLMs` `AI` `Full Stack`
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Aanu777)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aanu777)
 
 ---
 
-### 💖 My Heart
+## 💖 My Heart
 
 An interactive virtual gallery combining memories, photographs, audio, visual environments, and storytelling into a personalized digital experience.
 
 **Focus:** `React` `TypeScript` `Three.js` `React Three Fiber`
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Aanu777)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aanu777)
 
 ---
 
@@ -174,7 +174,7 @@ I'm working toward becoming someone who can take an idea from:
 
 **Concept → Architecture → Implementation → Security → Deployment**
 
-My current interests sit at the intersection of AI and cybersecurity:
+My interests sit at the intersection of AI and cybersecurity:
 
 ```text
                  SOFTWARE ENGINEERING
@@ -189,7 +189,7 @@ My current interests sit at the intersection of AI and cybersecurity:
        │           │             │           │
        └─────┬─────┘             └─────┬─────┘
              │                         │
-             └──────────┬──────────────┘
+             └──────────┬───────────────┘
                         │
                    AI × SECURITY
                         │
@@ -215,26 +215,14 @@ My current interests sit at the intersection of AI and cybersecurity:
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Activity
+
+You can explore my latest work, repositories, commits, and contribution activity directly on my GitHub profile.
 
 <div align="center">
 
 <a href="https://github.com/Aanu777">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aanu777&theme=transparent" width="100%" alt="Aanu777 GitHub contribution summary">
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Aanu777">
-
-<img src="https://streak-stats.demolab.com?user=Aanu777&theme=transparent&hide_border=true" width="70%" alt="Aanu777 GitHub streak">
-
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
 </a>
 
 </div>
@@ -279,9 +267,6 @@ They're opportunities to understand the system more deeply.
 
 **AI · Security · Software · Curiosity**
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Aanu777&style=flat-square&color=blueviolet" alt="Profile views">
-
 </div>
+
 
